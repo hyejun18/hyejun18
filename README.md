@@ -1,5 +1,18 @@
 ### Hi there 👋
+# KIM Hyejun
+The greatest bioinformatician in the next generation 🐣   
 🌱 I’m currently learning Bioinformatics
+
+## I'm interested in :microscope:
++ Me :raising_hand:
++ RNA Tail
++ RNA-RBP Interactome
++ RNA Stability
++ [Access for persons with disabilities](https://en.unesco.org/themes/access-persons-disabilities)
++ [AKMU](https://www.youtube.com/watch?v=gMXXVS6Hil4)
++ [그 해 우리는](https://programs.sbs.co.kr/drama/ourbelovedsummer/main)
+
+
 <!--
 **hyejun18/hyejun18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
