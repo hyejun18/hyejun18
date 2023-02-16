@@ -5,14 +5,11 @@ The greatest bioinformatician in the next generation 🐣
 
 ## I'm interested in :microscope:
 + Me :raising_hand:
-+ MicroRNA
++ MicroRNA Biogenesis
 + Viral RNA Interactome
-+ RNA Tail
-+ RNA-RBP Interactome
 + [Access for persons with disabilities](https://en.unesco.org/themes/access-persons-disabilities)
 + [AKMU](https://www.youtube.com/watch?v=gMXXVS6Hil4)
 <!--
-+ [그 해 우리는](https://programs.sbs.co.kr/drama/ourbelovedsummer/main)
 --->
 
 <!--
